@@ -1,7 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
 dependencies:
+  - lightgbm
   - matplotlib
   - numpy
   - pandas
   - seaborn
   - scikit-learn
+  - xgboost
 
