@@ -2,11 +2,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - eli5
   - lightgbm
+  - keras
   - matplotlib
   - numpy
   - pandas
   - seaborn
   - scikit-learn
+  - tensorflow>=1.15
   - xgboost
 
