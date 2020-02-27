@@ -1,6 +1,13 @@
 # Scrybe.ml Tutorials
 This repository contains samples showing different usages of Scrybe.ml. It contains several notebooks and helper scripts to help you get familiarised with basic to advanced usage of the Scrybe tool. 
 
+## Attribution and Disclaimer
+For the sake of the tutorial, we have used data and sample kernels from Kaggle's [House Price Prediction Challenge](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). 
+The provided dataset has been kept under the `data` folder as a convenience for tutorial users. 
+Most of the source code in `exploratory_plots.py`, `data_exploration.ipynb`, `general_cleaner.py` and `models_traditional.ipynb` has been copied and repurposed from [this kernel](https://www.kaggle.com/lucabasa/houseprice-end-to-end-project/notebook).     
+
+Scrybe does not claim any ownership on either the data or code in said files. 
+
 # Prerequisites
 The tutorial assumes you are already signed up as a Scrybe user. Currently Scrybe.ml is in private beta and new user sign-ups are invitation only. If you are interested in getting an invite, please [contact us](mailto:admin@scrybe.ml?subject=[GitHub]%20Scrybe%20Trial).
 
